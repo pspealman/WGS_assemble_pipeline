@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/499609321.svg)](https://zenodo.org/badge/latestdoi/499609321)
+
 ## WGS_assemble_pipeline
 Pipeline for de novo WGS assembly beginning with a hybrid (long and short-read) method. 
 
